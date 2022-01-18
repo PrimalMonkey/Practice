@@ -1,0 +1,10 @@
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\bin\Release\Practice2021.exe
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\bin\Release\Practice2021.pdb
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.csproj.AssemblyReference.cache
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.MainForm.resources
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.FormAbout.resources
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.Properties.Resources.resources
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.csproj.GenerateResource.cache
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.exe
+C:\Users\Alpha\source\repos\Practice2021\Practice2021\obj\Release\Practice2021.pdb
